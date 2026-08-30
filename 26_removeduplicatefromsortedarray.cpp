@@ -18,7 +18,7 @@ public:
             }
 
             nums[officer] = nums[cm];
-
+            
             officer++;
             unique++;
             cm++;
